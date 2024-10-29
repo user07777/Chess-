@@ -1,7 +1,8 @@
 # Chess++
 ## uma engine de xadrez usando sdl
 ainda estou desenvolvendo , existem alguns bugs no momento , e só está disponivel para jogar ,  mas 90% do código já está andado por isso upei aqui  
-a versão final irá ter opção de jogo  , e de revisão de quaisquer partidas 
+a versão final irá ter opção de jogo sozinho com ia   , e de revisão de quaisquer partidas 
+talvez  sockets   para jogar online
 
 ## bibliografia
 chess.com pelas assets 
